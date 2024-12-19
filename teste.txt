@@ -1,0 +1,7 @@
+Hello, World! 
+
+My name is Giulia, and I've been working as a delivery security analyst at Accenture for two and a half years. My primary activities are data protection and cybersecurity consulting. I am now monitoring a bigger customer's IAM system, following up on access bids, and communicating with service owners.
+
+I also worked as a web development analyst, where my primary responsibilities were developing microservices and batch data processing applications using the Java programming language. 
+
+I am familiar with cloud security features like Active Directory, MOffice365, and GCP, as well as developer resources such as Kubernetes, Docker, Nexus, Talend, data ETL, and programming languages such as Java, Javascript, C, Python, and Structured Query Language (SQL).
